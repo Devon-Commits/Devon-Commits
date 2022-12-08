@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Devon-Commits
 - 👀 I’m aspiring to become a software developer!
-- 🌱 I’m currently learning as much as I can in Python, Ruby, Ruby on Rails and Javascript and you'll see repositories of projects I'm currently working on.
+- 🌱 Specializing in Python, Ruby, Ruby on Rails and Javascript and you'll see repositories of projects I'm currently working on.
 - 📫 How to reach me: devonvandyk@gmail.com 
 
 <!---
