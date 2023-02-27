@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Devon-Commits
-- 🌱 Specializing in Ruby, Ruby on Rails, Python and Javascript and you'll see repositories of projects I'm currently working on.
+- 🌱 Languages I enjoy working with include: Ruby, Python and C++.
+- ✨ Frameworks I enjoy: Ruby on Rails, Django
 
 <!---
 Devon-Commits/Devon-Commits is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
